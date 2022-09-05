@@ -12,7 +12,7 @@ Junior Developer on Halyk Bank since 2021. Love to optimize things, not always s
 
 * JavaScript (npm, Vue)
 * Golang (Echo, Fiber, Gin)
-* Git
+* Git (Gitlab, Github)
 * IDE: VSCode for frontend, GoLand for backend
 * HTML 
 * CSS (BEM, SCSS)
@@ -74,3 +74,7 @@ Books
 ### English Level
 
 CEFR B2.2
+
+EFSET
+![image](https://user-images.githubusercontent.com/112803211/188453000-2f06373e-ec4b-4c0f-a820-9371b18d7bca.png)
+
