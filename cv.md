@@ -52,7 +52,7 @@ function deleteNth(arr,n){
 
 Occasional landing freelance
 
-2021 - currently
+2021 - current time
 
 Halyk Bank Junior Developer
 
